@@ -1,16 +1,17 @@
-Colm,
-
-Phase 1 - Immediate access ($400/month)
-Gets you and Jake raw terminal access to Claude + data (plus anyone else you wish to initially entrust)
+Milestone #1 - Immediate access to AI and infrastructure ($20K cost for infra and hours)
+Gets you and Jake terminal access to Claude (plus anyone else you wish to initially entrust)
+Infrastructure creation + defining roles, tasks, tools so that the AI does exactly what we want repeatably
+Weekly highly iterative training sessions with team
 Uses existing Astute remote desktop
-Will need you to provide access to desired data sources (Ie Salesforce API keys or database access)
-$400/month
+$400/month Infrastructure
 $200 Phoenix Nap Bare-metal server
 $200 Claude Pro Max Subscription
-Completed within 24hrs of your approval to proceed
+Will have a terminal for you to use within 24hrs of approval
 
-Phase 2 - Full enterprise implementation ($96K/6mo)
-Building the guiderails and security towards enabling company-wide use
-$4000/week budget for implementation hours and costs that you reserve the right shutdown at any point based on your assessment of deliverable output
+Milestone #2 - Full enterprise implementation ($76K/ 6 months Budget)
+AI integration to all tools with an API/Integration point
+Extend phase 1 into the many roles and tools across Astute
+Iterative implementation that will have weekly summaries of accomplishment and project status. No contract, you are driving and reserve the right to reassess at any point
+Dollar amounts serve budget purposes to help ensure success. Invoices will be based on actual (not budget)
 
-Phase 1 gives you immediate access to what you've already seen is possible; phase 2 allows us to realize the vision across the entire enterprise with every system and every user. It's my recommendation that we implement phase I and reassess after 3 weeks to determine if this is worthy of an enterprise discussion
+Milestone 1 gives you immediate access to what you've already seen is possible; milestone 2 allows us to realize the vision across the entire company with every system and every user. Let's achieve and validate milestone 1, then we should have a discussion about an enterprise-wide solution.
